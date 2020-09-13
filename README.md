@@ -1,2 +1,2 @@
 # SmartSteamEmu-Compiled-Realease
-SSE Compiled
+Compiled build of SmartSteamEmulator, directly from cs.rin.ru
