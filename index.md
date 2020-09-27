@@ -2,6 +2,6 @@
 
 SmartSteamEmu is a Steam Emulator that allows you to play Steam games, without having to connect to Steam.
 
-!(SmartSteamEmu)[https://i.imgur.com/f8dqeqk.png]
+![SmartSteamEmu](https://i.imgur.com/f8dqeqk.png)
 
 For more details see my [GitHub Repo](https://github.com/datnotguy17/SmartSteamEmu-Compiled-Release).
